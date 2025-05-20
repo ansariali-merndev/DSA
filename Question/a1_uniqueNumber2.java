@@ -1,4 +1,5 @@
-import java.sql.Array;
+package Question;
+
 import java.util.Arrays;
 
 public class a1_uniqueNumber2 {

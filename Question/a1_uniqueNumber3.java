@@ -1,3 +1,5 @@
+package Question;
+
 import java.util.HashMap;
 
 public class a1_uniqueNumber3 {
